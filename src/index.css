@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.defaultcolor{
+    background-color: #14161A;
+    color:white;
+    min-height:125vh;
+    overflow: hidden;
+  }
